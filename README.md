@@ -1,0 +1,1 @@
+kesulitan saya ketika membuat tampilan delete dan mengatur desain menjadi ascanding
